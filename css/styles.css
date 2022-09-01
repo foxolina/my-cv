@@ -1,0 +1,23 @@
+body {
+       
+    background-color: #FFEEEE;
+    font-family: "Shree Devanagari 714"
+
+
+}
+hr {
+
+   border-color: #A8918B;
+    border-style: solid none none none;
+    border-width: 5px;
+    width: 5%;
+    
+   
+
+}
+h1,h3 {
+color:#A8918B ;
+font-family: "Arial"
+
+}
+
